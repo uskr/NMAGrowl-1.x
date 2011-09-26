@@ -1,0 +1,32 @@
+.DS_Store
+ 
+# Backup files left behind by the Emacs editor.
+*~
+ 
+# Lock files used by the Emacs editor.
+.\#*
+ 
+# Temporary files used by the vim editor.
+.*.swp
+*~.nib
+ 
+# Temporary files used by TestMate
+._*
+ 
+# build directories
+**/build/*
+build/*
+ 
+# XCode user data
+**.pbxuser
+**.mode?v?
+**.perspectivev?
+ 
+# documentation
+**.docset/*
+
+/build/.DS_Store
+/resources/.DS_Store
+/source/.DS_Store
+/NMA.dmgCanvas
+/build
