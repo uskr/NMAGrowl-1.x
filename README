@@ -11,6 +11,8 @@ About
 
 This plugin is a Growl plugin for sending messages to Android devices through NotifyMyAndroid public API.
 
+This is an open source version of the Growl Plugin for Notify My Android. Feel free to fork it and improve it, or fix any bugs. You can find the official repository on https://github.com/uskr/NMAGrowl-1.x . Send us a pull request and we will review your changes and merge them with the official release.
+
 -------
 History
 -------
